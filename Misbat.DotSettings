@@ -343,6 +343,20 @@ catch (System.Exception e)&#xD;
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=68B1CD6B4D982347819D2C90FE9FB5F1/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=68B1CD6B4D982347819D2C90FE9FB5F1/Text/@EntryValue">System.Diagnostics.Debug.Assert($expression$, "!$expression$");&#xD;
 $END$</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=76EC5233EFB4264EA38568DEA4B84142/@KeyIndexDefined">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=76EC5233EFB4264EA38568DEA4B84142/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=76EC5233EFB4264EA38568DEA4B84142/Description/@EntryValue">attach new debugger if none is attached</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=76EC5233EFB4264EA38568DEA4B84142/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=76EC5233EFB4264EA38568DEA4B84142/Scope/=2C285F182AC98D44B0B4F29D4D2149EC/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=76EC5233EFB4264EA38568DEA4B84142/Scope/=2C285F182AC98D44B0B4F29D4D2149EC/CustomProperties/=minimumLanguageVersion/@EntryIndexedValue">7.0</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=76EC5233EFB4264EA38568DEA4B84142/Scope/=2C285F182AC98D44B0B4F29D4D2149EC/Type/@EntryValue">InCSharpStatement</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=76EC5233EFB4264EA38568DEA4B84142/Shortcut/@EntryValue">datt</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=76EC5233EFB4264EA38568DEA4B84142/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=76EC5233EFB4264EA38568DEA4B84142/Text/@EntryValue">if (!System.Diagnostics.Debugger.IsAttached)&#xD;
+{&#xD;
+    System.Diagnostics.Debugger.Launch();&#xD;
+}&#xD;
+$END$</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A3DA5BF69A1CA4D82EC2F5C5F9AA34B/@KeyIndexDefined">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A3DA5BF69A1CA4D82EC2F5C5F9AA34B/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=9A3DA5BF69A1CA4D82EC2F5C5F9AA34B/Description/@EntryValue">catch operation canceled exception</s:String>
