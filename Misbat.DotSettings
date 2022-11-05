@@ -5,6 +5,10 @@
 	<s:Int64 x:Key="/Default/CodeEditing/NullCheckPatterns/PatternTypeNamesToPriority/=JetBrains_002EReSharper_002EFeature_002EServices_002ECSharp_002ENullChecking_002EPatternMatchingIfThenThrowPattern/@EntryIndexedValue">500</s:Int64>
 	<s:Int64 x:Key="/Default/CodeEditing/NullCheckPatterns/PatternTypeNamesToPriority/=JetBrains_002EReSharper_002EFeature_002EServices_002ECSharp_002ENullChecking_002EThrowExpressionNullCheckPattern/@EntryIndexedValue">1000</s:Int64>
 	<s:Int64 x:Key="/Default/CodeEditing/NullCheckPatterns/PatternTypeNamesToPriority/=JetBrains_002EReSharper_002EFeature_002EServices_002ECSharp_002ENullChecking_002ETraceAssertPattern/@EntryIndexedValue">3000</s:Int64>
+	<s:Boolean x:Key="/Default/CodeEditing/TypingAssist/Asp/FormatOnClosingTag/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeEditing/TypingAssist/Asp/FormatOnEnter/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeEditing/TypingAssist/SkipClosingBracesOnTabInIndentPosition/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeEditing/TypingAssist/SkipClosingBracesOnTabInStringLiterals/@EntryValue">True</s:Boolean>
 	<s:String x:Key="/Default/CodeInspection/CSharpLanguageProject/LanguageLevel/@EntryValue">CSharp73</s:String>
 	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=103A98B0_002DA252_002D1299_002DD7A9_002DEABF72D3CA64_002Fd_003AAssets_002Fd_003APlugins/@EntryIndexedValue">ExplicitlyExcluded</s:String>
 	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=374FB42A_002DB1BD_002D599D_002D7EF0_002D1ACAF96E13A2_002Fd_003AAssets_002Fd_003APlugins/@EntryIndexedValue">ExplicitlyExcluded</s:String>
