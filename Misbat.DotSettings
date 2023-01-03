@@ -15,6 +15,7 @@
 	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7BEDFB27_002D8ADE_002D21A3_002D6D6C_002DCDD33A13D486_002Fd_003AAssets_002Fd_003APlugins/@EntryIndexedValue">ExplicitlyExcluded</s:String>
 	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=BE90CB11_002D0F67_002DBDA6_002DE13C_002D21AFF163D8BF_002Fd_003AAssets_002Fd_003APlugins/@EntryIndexedValue">ExplicitlyExcluded</s:String>
 	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=E96ADAAE_002DA6E6_002DAD11_002D32E7_002D54CAD06D1EC9_002Fd_003AAssets_002Fd_003APlugins/@EntryIndexedValue">ExplicitlyExcluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/GeneratedCode/GeneratedFileMasks/=_002A_002Eg_002Ecs/@EntryIndexedValue">*.g.cs</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=ArrangeAccessorOwnerBody/@EntryIndexedValue">HINT</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=ArrangeConstructorOrDestructorBody/@EntryIndexedValue">HINT</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=ArrangeLocalFunctionBody/@EntryIndexedValue">HINT</s:String>
